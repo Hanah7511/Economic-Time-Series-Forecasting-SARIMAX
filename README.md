@@ -115,7 +115,7 @@ Economic-Time-Series-Forecasting-SARIMAX/
 ## ▶️ How to Run the Project
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR-USERNAME/Economic-Time-Series-Forecasting-SARIMAX.git
+git clone https://github.com/Hana7511/Economic-Time-Series-Forecasting-SARIMAX.git
 
 2. Install dependencies:
 ```bash
